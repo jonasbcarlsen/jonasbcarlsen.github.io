@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Welcome to my little space
+Welcome
 
-A few things
-
-```
-The final element.
-```
+More things coming here soon
